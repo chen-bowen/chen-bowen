@@ -1,6 +1,6 @@
 # Hi, I'm Bowen 👋
 
-I'm a Machine Learning Engineer based in Toronto, Canada, focused on taking models from research to **production** – especially in search, retrieval, and personalization systems. I care about clean infrastructure, observability, and building systems that are reliable and maintainable.
+I'm a Machine Learning / AI Engineer based in Toronto, Canada, focused on taking models from research to **production** – especially in search, retrieval, and personalization systems. I care about clean infrastructure, observability, and building systems that are reliable and maintainable.
 
 - 🔭 Currently working on:  
   - Search and retrieval systems that surface the right content at the right time  
