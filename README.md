@@ -29,8 +29,8 @@ I'm a Machine Learning Engineer based in Toronto, Canada, focused on taking mode
 - Designed the system with production in mind: containerized FastAPI service, clear interfaces for online serving, and monitoring/feedback hooks for continuous improvement.  
 - Wrote an accompanying blog series walking through training, serving, and deployment of the system end-to-end.
 
-👉 Repo: `[chen-bowen/instacart_next_order_recommendation](https://github.com/chen-bowen/instacart_next_order_recommendation)`  
-👉 Model: published on Hugging Face Hub as `chenbowen184/instacart-two-tower-sbert`
+👉 Repo: [chen-bowen/instacart_next_order_recommendation](https://github.com/chen-bowen/instacart_next_order_recommendation)
+👉 Model: published on Hugging Face Hub as [chenbowen184/instacart-two-tower-sbert](https://huggingface.co/chenbowen184/instacart-two-tower-sbert)
 
 ---
 
