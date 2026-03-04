@@ -1,6 +1,6 @@
 # Hi, I'm Bowen 👋
 
-I'm a Machine Learning Engineer based in Toronto, Canada, focused on taking models from notebooks to **production** – especially in recommendation systems, search, and LLM-powered applications. I care about clean infrastructure, observability, and building systems that are reliable and maintainable.
+I'm a Machine Learning Engineer based in Toronto, Canada, focused on taking models from research to **production** – especially in recommendation systems, search, and LLM-powered applications. I care about clean infrastructure, observability, and building systems that are reliable and maintainable.
 
 - 🔭 Currently working on:  
   - Two-tower recommendation systems (from training → deployment → monitoring)  
