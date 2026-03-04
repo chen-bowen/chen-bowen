@@ -26,6 +26,7 @@ I'm a Machine Learning / AI Engineer based in Toronto, Canada, focused on taking
 
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <!-- ML / AI -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -35,7 +36,6 @@ I'm a Machine Learning / AI Engineer based in Toronto, Canada, focused on taking
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1E88E5?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 <!-- Backend / Infra -->
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
