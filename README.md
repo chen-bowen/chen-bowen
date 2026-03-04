@@ -1,58 +1,75 @@
 # Hi, I'm Bowen 👋
 
-I'm a Machine Learning Engineer based in Toronto, Canada, focused on taking models from research to **production** – especially in recommendation systems, search, and LLM-powered applications. I care about clean infrastructure, observability, and building systems that are reliable and maintainable.
+I'm a Machine Learning Engineer based in Toronto, Canada, focused on taking models from research to **production** – especially in search, retrieval, and personalization systems. I care about clean infrastructure, observability, and building systems that are reliable and maintainable.
 
 - 🔭 Currently working on:  
-  - Two-tower recommendation systems (from training → deployment → monitoring)  
-  - ML infrastructure for reliable model serving and evaluation  
-  - Content and tooling that make it easier to ship ML products
+  - Search and retrieval systems that surface the right content at the right time  
+  - Personalized recommendation systems (e.g., two-tower architectures) from training → deployment → monitoring  
+  - ML infrastructure for reliable model serving and evaluation
 
 - 🌱 Learning more about:  
   - Kubernetes, scalable inference, and production observability  
-  - LLM applications, retrieval, and ranking  
+  - LLM applications for search, ranking, and summarization  
   - How to turn side projects into real, revenue-generating products
 
-- 🧰 Tech I use:  
-  - Python, PyTorch, TensorFlow, FastAPI, Flask 
-  - Docker, Kubernetes, CI/CD  
-  - Postgres, Redis, vector search tools
+- 🎯 Longer-term direction:  
+  - Exploring what it takes to run a lean, one-person ML/search practice, from idea → prototype → paying users
 
 ---
 
-## Featured project: Instacart Two-Tower Recommender
+## 💻 Tech Stack
 
-**From purchase history to ranked product recommendations on a 50K+ item catalog.**
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- Built a two-tower recommendation model using a distilled sentence-transformer over the Instacart dataset to generate user and item embeddings from purchase history.  
-- Trained on ~1.2M interactions under tight hardware constraints, reaching solid ranking quality (e.g., NDCG@10 ≈ 0.43 after 1 epoch) while keeping inference practical for real-world use.  
-- Designed the system with production in mind: containerized FastAPI service, clear interfaces for online serving, and monitoring/feedback hooks for continuous improvement.  
-- Wrote an accompanying blog series walking through training, serving, and deployment of the system end-to-end.
+<!-- ML / AI -->
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=000000)
 
-👉 Repo: [chen-bowen/instacart_next_order_recommendation](https://github.com/chen-bowen/instacart_next_order_recommendation)
-👉 Model: published on Hugging Face Hub as [chenbowen184/instacart-two-tower-sbert](https://huggingface.co/chenbowen184/instacart-two-tower-sbert)
+<!-- Backend / Infra -->
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<!-- Data / Storage -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## What I’m interested in
 
-- Recommender systems and ranking (two-tower models, retrieval + re-ranking, embeddings)  
+- Search and ranking: query understanding, retrieval, and learning-to-rank  
+- Personalization: embeddings, two-tower models, and user–item interaction modeling  
 - ML infra: deployment, orchestration, observability, and evaluation loops  
-- LLM-powered products: retrieval, summarization, and agent-like workflows that plug into production systems  
-- Practical ML projects that connect directly to business value
+- LLM-powered products: retrieval-augmented generation and agent-like workflows that plug into production systems
 
 ---
 
 ## Freelance & collaboration
 
 I’m open to:  
-- Helping teams turn existing ML prototypes into production services  
-- Designing recommendation or personalization systems for e-commerce, content, or marketplaces  
+- Helping teams improve or build search and personalization systems end to end  
+- Turning existing ML prototypes into production services  
 - Collaborating on open-source tooling for ML deployment and monitoring
 
-If you’re working on ML infra, recsys, or a meaningful ML product, I’d love to chat.
+If you’re working on search, personalization, or ML infra, I’d love to chat.
 
 📫 **How to reach me**  
-- Email: chenbowen184@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/chen-bowen/
-- Blog:  [Medium](https://medium.com/@bowenchen)
+
+<a href="https://www.linkedin.com/in/chen-bowen/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:chenbowen184@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://medium.com/@bowenchen" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://substack.com/@bowenchen127969" target="_blank">
+  <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
 
