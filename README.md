@@ -13,8 +13,7 @@ I'm a Machine Learning Engineer based in Toronto, Canada, focused on taking mode
   - How to turn side projects into real, revenue-generating products
 
 - 🧰 Tech I use:  
-  - Python, PyTorch, FastAPI  
-  - TensorFlow/TFX (where it makes sense)  
+  - Python, PyTorch, TensorFlow, FastAPI, Flask 
   - Docker, Kubernetes, CI/CD  
   - Postgres, Redis, vector search tools
 
