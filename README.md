@@ -45,7 +45,7 @@ I'm a Machine Learning / AI Engineer based in Toronto, Canada, focused on taking
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
-## What I’m interested in
+## 🔍 What I’m interested in
 
 - Search and ranking: query understanding, retrieval, and learning-to-rank  
 - Personalization: embeddings, two-tower models, and user–item interaction modeling  
@@ -54,7 +54,7 @@ I'm a Machine Learning / AI Engineer based in Toronto, Canada, focused on taking
 
 ---
 
-## Freelance & collaboration
+## 🧰 Freelance & collaboration
 
 I’m open to:  
 - Helping teams improve or build search and personalization systems end to end  
