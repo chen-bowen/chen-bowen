@@ -47,21 +47,20 @@ I'm a Machine Learning / AI Engineer based in Toronto, Canada, focused on taking
 
 ## 🔍 What I’m interested in
 
-- Search and ranking: query understanding, retrieval, and learning-to-rank  
-- Personalization: embeddings, two-tower models, and user–item interaction modeling  
-- ML infra: deployment, orchestration, observability, and evaluation loops  
-- LLM-powered products: retrieval-augmented generation and agent-like workflows that plug into production systems
+- 🔎 **Search and ranking:** query understanding, retrieval, and learning-to-rank  
+- 🎯 **Personalization:** embeddings, two-tower models, and user–item interaction modeling  
+- 🧩 **ML infra:** deployment, orchestration, observability, and evaluation loops  
+- 🤖 **LLM-powered products:** retrieval-augmented generation and agent-like workflows that plug into production systems  
 
----
-
-## 🧰 Freelance & collaboration
+## 🤝 Freelance & collaboration
 
 I’m open to:  
-- Helping teams improve or build search and personalization systems end to end  
-- Turning existing ML prototypes into production services  
-- Collaborating on open-source tooling for ML deployment and monitoring
+- 🧭 Helping teams improve or build search and personalization systems end to end  
+- ⚙️ Turning existing ML prototypes into production services  
+- 🌐 Collaborating on open-source tooling for ML deployment and monitoring  
 
 If you’re working on search, personalization, or ML infra, I’d love to chat.
+
 
 ## 🌐 How to reach me
 
