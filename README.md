@@ -2,7 +2,8 @@
 
 I'm a Machine Learning / AI Engineer based in Toronto, Canada, focused on taking models from research to **production** – especially in search, retrieval, and personalization systems. I care about clean infrastructure, observability, and building systems that are reliable and maintainable.
 
-- 🔭 Currently working on:  
+- 🔭 Currently working on:
+  - Two products that hopefully can be useful for a lot of people
   - Search and retrieval systems that surface the right content at the right time  
   - Personalized recommendation systems (e.g., two-tower architectures) from training → deployment → monitoring  
   - ML infrastructure for reliable model serving and evaluation
